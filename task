@@ -1,0 +1,24 @@
+PluginManagement {
+    // ... (same as original)
+}
+
+plugins {
+    id "dev.flutter.flutter-plugin-loader" version "1.0.0"
+}
+
+include ":app"
+
+rootProject.name = 'my_flutter_app'
+
+// Apply plugins to the `app` module
+apply plugin: 'com.android.application'
+apply plugin: 'org.jetbrains.kotlin.android'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    // ... (Android configuration)
+}
+
+dependencies {
+    // ... (project dependencies)
+}
