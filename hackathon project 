@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Device Information</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Device Information</h1>
+    </header>
+    <main>
+        <section id="user-form-section">
+            <h2>User Information</h2>
+            <form id="user-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required><br><br>
+                <label for="age">Age:</label>
+                <input type="number" id="age" name="age" min="0" required><br><br>
+                <label for="gender">Gender:</label>
+                <select id="gender" name="gender" required>
+                    <option value="">Select</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    <option value="other">Other</option>
+                </select><br><br>
+                <button id="submit-btn">Submit</button>
+            </form>
+        </section>
+        <section id="device-info-section">
+            <h2>Device Information</h2>
+            <div id="device-info"></div>
+        </section>
+        <section id="camera-info-section">
+            <h2>Camera Information</h2>
+            <div id="camera-info"></div>
+        </section>
+        <section id="device-motion-section">
+            <h2>Device Motion</h2>
+            <div id="device-motion-data"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
+HTML (index.html)
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Device Information</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Device Information</h1>
+    </header>
+    <main>
+        <section id="user-form-section">
+            <h2>User Information</h2>
+            <form id="user-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name"><br><br>
+                <label for="address">Address:</label>
+                <input type="text" id="address" name="address"><br><br>
+                <button id="submit-btn">Submit</button>
+            </form>
+        </section>
+        <section id="device-info-section">
+            <h2>Device Information</h2>
+            <div id="device-info"></div>
+        </section>
+        <section id="device-motion-section">
+            <h2>Device Motion</h2>
+            <div id="device-motion-data"></div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
+```
+
+
+CSS (styles.css)
+```
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section {
+    background-color: #f7f7f7;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #333;
+}
+
+#user-form-section {
+    width: 50%;
+}
+
+#device-info-section, #device-motion-section {
+    width: 75%;
+}
+
+#device-info, #device-motion-data {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+```
+
+
+JavaScript (script.js)
+```
+// Get user form data
+const form = document.getElementById('user-form');
+form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    const name = document.getElementById('name').value;
+    const address = document.getElementById('address').value;
+    // Process user data
+    console.log(`Name: ${name}, Address: ${address}`);
+});
+
+// Detect device information
+const deviceInfo = document.getElementById('device-info');
+deviceInfo.innerHTML = `
+    <p>Device Type: ${navigator.userAgent}</p>
+    <p>Device Model: ${navigator.userAgent}</p>
+    <p>Operating System: ${navigator.userAgent}</p>
+`;
+
+// Get device motion data
+window.addEventListener('devicemotion', (event) => {
+    const acceleration = event.acceleration;
+    const rotationRate = event.rotationRate;
+    // Process device motion data
+    console.log(`Acceleration: ${acceleration.x}, ${acceleration.y}, ${acceleration.z}`);
+    console.log(`Rotation Rate: ${rotationRate.alpha}, ${rotationRate.beta}, ${rotationRate.gamma}`);
+});
+
+// Display device motion data
+const deviceMotionData = document.getElementById('device-motion-data');
+window.addEventListener('devicemotion', (event) => {
+    const acceleration = event.acceleration;
+    const rotationRate = event.rotationRate;
+    deviceMotionData.innerHTML = `
+        <p>Acceleration:</p>
+        <p>x: ${acceleration.x}</p>
+        <p>y: ${acceleration.y}</p>
+        <p>z: ${acceleration.z}</p>
+        <p>Rotation Rate:</p>
+        <p>alpha: ${rotationRate.alpha}</p>
+        <p>beta: ${rotationRate.beta}</p>
+        <p>gamma: ${rotationRate.gamma}</p>
+    `;
+});
+```
+
