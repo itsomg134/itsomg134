@@ -1,1 +1,30 @@
 development of nic code 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NIC Code Semantic Search</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>NIC Code Semantic Search</h1>
+    <p>Enter a business or industry description to find the relevant NIC code.</p>
+    
+    <!-- Input Form -->
+    <form id="searchForm">
+      <textarea id="inputText" placeholder="e.g., manufacturing of solar panels" required></textarea>
+      <button type="submit">Search</button>
+    </form>
+
+    <!-- Results Section -->
+    <div id="results" class="results">
+      <h2>Results</h2>
+      <p id="outputText">Your NIC code will appear here.</p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
