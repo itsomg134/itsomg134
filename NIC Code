@@ -105,3 +105,50 @@ button:hover {
   font-weight: bold;
   color: #27ae60;
 }
+
+javascript 
+
+
+// script.js
+
+// Mock function to simulate NIC code prediction (replace with actual API call)
+async function predictNICCode(text) {
+  // Simulate a delay for API call
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      // Mock response (replace with actual logic)
+      const mockData = {
+        "manufacturing of solar panels": "2610",
+        "software development": "6201",
+        "restaurant services": "5610",
+      };
+      const code = mockData[text.toLowerCase()] || "NIC code not found";
+      resolve(code);
+    }, 1000); // Simulate 1-second delay
+  });
+}
+
+// Handle form submission
+document.getElementById("searchForm").addEventListener("submit", async (e) => {
+  e.preventDefault(); // Prevent page reload
+
+  const inputText = document.getElementById("inputText").value.trim();
+  const outputText = document.getElementById("outputText");
+
+  if (!inputText) {
+    alert("Please enter a description.");
+    return;
+  }
+
+  // Show loading state
+  outputText.textContent = "Searching...";
+
+  // Call the prediction function
+  try {
+    const nicCode = await predictNICCode(inputText);
+    outputText.textContent = `NIC Code: ${nicCode}`;
+  } catch (error) {
+    outputText.textContent = "An error occurred. Please try again.";
+    console.error(error);
+  }
+});
