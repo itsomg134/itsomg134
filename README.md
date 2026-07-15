@@ -89,10 +89,23 @@ while(alive)
     Repeat();
 }
 ```
+<h2>🎥 Featured Demos</h2>
 
----
+<p align="center">
 
-<div align="center">
+<a href="https://www.linkedin.com/posts/om-gedam-39686432a_murfaialagentschallenge-10daysofaivoiceagents-activity-7398373112850833408-esC4">
+  <img src="./assets/linkedin-demo.png" width="31%" alt="LinkedIn Demo"/>
+</a>
+
+<a href="https://github.com/itsomg134/MolAI-catalyst-synbio">
+  <img src="./assets/molai-demo.png" width="31%" alt="MolAI Demo"/>
+</a>
+
+<a href="https://github.com/itsomg134">
+  <img src="./assets/project-demo.png" width="31%" alt="GitHub Project"/>
+</a>
+
+</p>
 
 ###  Thanks for visiting my profile!
 
