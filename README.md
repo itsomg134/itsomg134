@@ -28,9 +28,8 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 <h2> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
-
-  <img src="https://streak-stats.demolab.com?user=itsomg134&theme=tokyonight&hide_border=false" height="180"/>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=itsomg134&theme=tokyonight&hide_border=false" />
 </p>
 
 <h2>
