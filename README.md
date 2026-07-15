@@ -23,79 +23,9 @@
 # 💫 About Me:
 software Engineer sharing about my journey and learning in tech 3rd Year Student<br>studied [computer Science](https://) at the DYP University, india<br>marking video about computer Science, tech, and productivity on [youtube](https://)<br/>learninginpublic in my [digital gardern](https://)<br>currently learning about data analytics and [dataviz](https:// )<br/><br><br>I enjoy solving real-world problems through software and continuously improving my development skills by building projects, participating in hackathons, contributing to open source, and solving coding challenges.
 
-
----
-
-# 🚀 Current Focus
-
-- 🌱 Learning Advanced Full Stack Development
-- 🤖 Exploring Artificial Intelligence
-- 📊 Data Science & Machine Learning
-- ☁️ Cloud Technologies
-- ⚡ Building Scalable Web Applications
-- 🧠 Competitive Programming
-
 ---
 
 # 🛠 Tech Stack
-
-## Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
-</p>
-
----
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vite" />
-</p>
-
----
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-</p>
-
----
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
----
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,bash,linux" />
-</p>
-
----
-
-## Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,tensorflow" />
-</p>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itsomg134&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsomg134&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
