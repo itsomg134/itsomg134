@@ -80,14 +80,9 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 ## You Kwon
 
 ```text
-while(alive)
-{
-    Learn();
-    Build();
-    Share();
-    Improve();
-    Repeat();
-}
+while(alive){
+             Learn();Build();Share();Improve();Repeat();
+            }
 ```
 <h2> Featured YouTube Videos</h2>
 
@@ -108,8 +103,6 @@ while(alive)
 </p>
 
 ###  Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=120&section=footer"/>
 </div>
