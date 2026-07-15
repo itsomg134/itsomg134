@@ -6,8 +6,8 @@
 </h1>
 ### 💻 Full Stack Developer | 🌱 AI & Data Science Student | 🚀 Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Collaborate+with+Developers+Worldwide;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Improve+DSA+Skills;Full+Stack+Developer;Master+Cloud+Technologies;Collaborate+with+Developers+Worldwide;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
+Improve DSA Skills  Master Cloud Technologies
 <p>
   <img src="https://komarev.com/ghpvc/?username=itsomg134&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/itsomg134?style=for-the-badge&logo=github" />
@@ -34,55 +34,6 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 ![](https://github-readme-stats.shion.dev/api?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=itsomg134&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🌐 More Projects
-
-Check out all my repositories here:
-
-⭐ **https://github.com/itsomg134?tab=repositories**
-
----
-
-# 📚 Currently Exploring
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Analytics
-- Cloud Computing
-- Docker
-- Kubernetes
-- System Design
-- Open Source Development
-
----
-
-# 💡 Interests
-
-- Web Development
-- Open Source
-- Hackathons
-- Problem Solving
-- Software Engineering
-- Cloud Technologies
-- Automation
-- DevOps
-- AI Applications
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Contribute more to Open Source
-- ⭐ Reach 1000+ GitHub Contributions
-- 💻 Build impactful Full Stack Projects
-- ☁️ Master Cloud Technologies
-- 🤖 Learn Advanced AI & ML
-- 🏆 Participate in more Hackathons
-- 📚 Improve DSA Skills
-- 🌍 Collaborate with Developers Worldwide
 
 ---
 
