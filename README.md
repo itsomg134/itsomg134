@@ -32,7 +32,6 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 
   <img src="https://streak-stats.demolab.com?user=itsomg134&theme=tokyonight&hide_border=false" height="180"/>
 </p>
----
 
 <h2>
   Connect With Me
@@ -79,7 +78,7 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 ## You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omgedam123z) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omgedam235) 
 
-## You Kwon Fact
+## You Kwon
 
 ```text
 while(alive)
