@@ -89,20 +89,20 @@ while(alive)
     Repeat();
 }
 ```
-<h2>🎥 Featured Demos</h2>
+<h2> Featured YouTube Videos</h2>
 
 <p align="center">
 
 <a href="https://www.linkedin.com/posts/om-gedam-39686432a_murfaialagentschallenge-10daysofaivoiceagents-activity-7398373112850833408-esC4">
-  <img src="./assets/linkedin-demo.png" width="31%" alt="LinkedIn Demo"/>
+  <img src="https://github.com/user-attachments/assets/45808098-5cec-4c80-a0c9-7352fbc2d895" width="20%" alt="Wellness Voice Companion"/>
 </a>
 
-<a href="https://github.com/itsomg134/MolAI-catalyst-synbio">
-  <img src="./assets/molai-demo.png" width="31%" alt="MolAI Demo"/>
+<a href="https://www.linkedin.com/posts/om-gedam-39686432a_biology-edtech-aiassistant-activity-7399091194632228865-qKGN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMQgyIBjQoS7eAD7Wq_yJp0daoyObL06s0">
+  <img src="https://github.com/user-attachments/assets/8cdd581b-f345-4fde-8de3-71aa06d13e31" width="20%" alt="Coach for Biology Learners"/>
 </a>
 
-<a href="https://github.com/itsomg134">
-  <img src="./assets/project-demo.png" width="31%" alt="GitHub Project"/>
+<a href="https://www.linkedin.com/posts/om-gedam-39686432a_voiceagents-murfaivoiceagentschallenge-10daysofaivoiceagents-activity-7399434851294056449-H4jy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFMQgyIBjQoS7eAD7Wq_yJp0daoyObL06s0">
+  <img src="https://github.com/user-attachments/assets/d370e5ea-779f-42de-9130-9a0a2f469cdf" width="20%" alt="DSA Mastery Guide"/>
 </a>
 
 </p>
