@@ -7,7 +7,6 @@
 ### 💻 Full Stack Developer | 🌱 AI & Data Science Student | 🚀 Open Source Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Improve+DSA+Skills;Full+Stack+Developer;Master+Cloud+Technologies;Collaborate+with+Developers+Worldwide;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
-Improve DSA Skills  Master Cloud Technologies
 <p>
   <img src="https://komarev.com/ghpvc/?username=itsomg134&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/itsomg134?style=for-the-badge&logo=github" />
@@ -15,9 +14,6 @@ Improve DSA Skills  Master Cloud Technologies
 </p>
 
 </div>
-
-<img align="right" alt="Coding" width="300" src="YOUR_IMAGE_URL">
-
 
 ---
 # 💫 About Me:
