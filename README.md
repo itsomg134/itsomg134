@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 🌱 AI & Data Science Student | 🚀 Open Source Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Open+Source+Contributor;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Data+Science+Student;Collaborate+with+Developers+Worldwide;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=itsomg134&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -14,23 +14,28 @@
 
 </div>
 
+<table>
+<tr>
+<td width="70%">
+
+# Hi 👋, I'm Om Gedam
+
+### 💻 Full Stack Developer | 🌱 AI & Data Science Student | 🚀 Open Source Enthusiast
+
+</td>
+
+<td width="30%" align="right">
+
+<img src="YOUR_IMAGE_URL" width="220"/>
+
+</td>
+</tr>
+</table>
+
 ---
+# 💫 About Me:
+software Engineer sharing about my journey and learning in tech 3rd Year Student <br/><br>studied [computer Science](https://) at the DYP University, india <br/><br>marking video about computer Science, tech, and productivity on [youtube](https://)<br/><br>learninginpublic in my [digital gardern](https://)<br>currently learning about data analytics and [dataviz](https:// )<br/><br><br>I enjoy solving real-world problems through software and continuously improving my development skills by building projects, participating in hackathons, contributing to open source, and solving coding challenges.
 
-# 👨‍💻 About Me
-
-🎓 **3rd Year Student** at **D. Y. Patil College (DYP)**
-
-💡 Passionate about
-
-- Full Stack Development
-- Artificial Intelligence
-- Data Science
-- Machine Learning
-- Cloud Computing
-- Open Source
-- UI/UX Design
-
-I enjoy solving real-world problems through software and continuously improving my development skills by building projects, participating in hackathons, contributing to open source, and solving coding challenges.
 
 ---
 
