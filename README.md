@@ -2,7 +2,7 @@
 
 <h1>
   Hi 👋, I'm Om Gedam
-  <img src="https://github.com/user-attachments/assets/6d597388-5bdf-4d3b-bd3f-a39e49ea6c88" width="100" alt="Sticker" />
+  <img src="https://github.com/user-attachments/assets/21ed67a6-3493-424d-88d4-302e7afe9bf6" width="100" alt="Sticker" />
 </h1>
 ### 💻 Full Stack Developer | 🌱 AI & Data Science Student | 🚀 Open Source Enthusiast
 
