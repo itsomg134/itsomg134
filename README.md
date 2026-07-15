@@ -1,10 +1,9 @@
 <div align="center">
-
+  
 <h1>
-  Hi 👋, I'm Om Gedam
+  Hi 👋, I'm Om Gedam !
   <img src="https://github.com/user-attachments/assets/21ed67a6-3493-424d-88d4-302e7afe9bf6" width="100" alt="Sticker" />
 </h1>
-### 💻 Full Stack Developer | 🌱 AI & Data Science Student | 🚀 Open Source Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Improve+DSA+Skills;Full+Stack+Developer;Master+Cloud+Technologies;Collaborate+with+Developers+Worldwide;Always+Learning+New+Technologies;Building+Projects+That+Matter" />
 <p>
@@ -17,7 +16,7 @@
 
 ---
 ## 💫 About Me:
-software Engineer sharing about my journey and learning in tech 3rd Year Student<br>studied [computer Science](https://) at the DYP University, india<br>marking video about computer Science, tech, and productivity on [youtube](https://)<br/>learninginpublic in my [digital gardern](https://)<br>currently learning about data analytics and [dataviz](https:// )<br/><br><br>I enjoy solving real-world problems through software and continuously improving my development skills by building projects, participating in hackathons, contributing to open source, and solving coding challenges.
+software Engineer sharing about my journey and learning in tech 3rd Year Student<br>studied [computer Science](https://) at the DYP University, india<br>marking video about computer Science, tech, and productivity on [youtube](https://)<br/>I enjoy playing Genshin Impact [itsomg134](https://)<br>currently learning about data analytics and [dataviz](https:// )<br/><br><br>I enjoy solving real-world problems through software and continuously improving my development skills by building projects, participating in hackathons, contributing to open source, and solving coding challenges.
 
 ---
 
@@ -26,14 +25,22 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 
 ---
 
-# GitHub SS:
-![](https://github-readme-stats.shion.dev/api?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=itsomg134&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2> GitHub Stats</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=itsomg134&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="180"/>
+
+  <img src="https://streak-stats.demolab.com?user=itsomg134&theme=tokyonight&hide_border=false" height="180"/>
+</p>
 ---
 
-## Connect With Me
+<h2>
+  Connect With Me
+  <img src="https://github.com/user-attachments/assets/fd17b203-39f2-4bc8-8597-43a8d87386c0"
+       width="70"
+       alt="Sticker"/>
+</h2>
+
 
 <p align="center">
 
@@ -72,7 +79,7 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 ## You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omgedam123z) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omgedam235) 
 
-## ⚡ Fun Fact
+## You Kwon Fact
 
 ```text
 while(alive)
@@ -89,10 +96,9 @@ while(alive)
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:6A5ACD&height=120&section=footer"/>
 </div>
