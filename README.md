@@ -75,8 +75,9 @@ software Engineer sharing about my journey and learning in tech 3rd Year Student
 ---
 
 ## You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omgedam123z) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omgedam235) [![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)](upi:omgedam123098@oksbi&pn=Om%20Gedam&cu=INR)
-
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/omgedam123z) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/omgedam235) <a href="https://github.com/user-attachments/assets/847f5d81-d8f9-40d2-858c-02429c817aa5" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Google_Pay_Logo.svg" height="42" alt="Google Pay">
+</a>
 ## You Kwon
 
 ```text
